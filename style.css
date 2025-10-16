@@ -1,3 +1,10 @@
 p1{
   background-image: url("twowanza.jpg")
 }
+p1.border{
+  border: 8px grey;
+  border-style: groove;
+  border-radius: 8px ;
+  padding: 8px;
+  
+}
